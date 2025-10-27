@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "375056061826",
+    "project_id": "weshare-be44c",
+    "storage_bucket": "weshare-be44c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375056061826:android:b5eb79a62fb3182e632b9b",
+        "android_client_info": {
+          "package_name": "com.example.weshare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1mMmcJTFsbbStfWnxavjzyR0n3q3xanw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
